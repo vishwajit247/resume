@@ -1,0 +1,97 @@
+body{
+	border: 20px solid #bdc3c7;
+	max-width: 700px;
+	width: 700;
+    height: 120vh;
+	margin: 20px auto;
+	text-align: justify;
+}
+.navbar{
+    background-color: #bdc3c7;
+	font-size: 15px;
+}
+
+.pic{
+	margin: 22px 2px 15px 22px;
+    width: 120px;
+	border: 1px solid #bdc3c7;
+	border-radius: 10%;
+}
+.info{
+	padding-left: 18px;
+	
+}
+#info1{
+	margin-top: 20px;
+	margin-bottom: 4px;
+	font-family: 'Times New Roman', Times, serif;
+}
+#info2{
+	margin-bottom: 1px;
+	font-family: cursive;
+	color: rgb(55, 35, 0);
+}
+#info3{
+	margin-top: 1px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: rgb(55, 35, 0);
+}
+.navbar-br{
+    padding-left: 3.2%;
+}
+.con-left{
+	float: left;
+	width: 40%;
+	margin: 20px 25px;
+	position: relative;
+}
+.con-right{
+	display: inline-block;
+	width: 40%;
+	margin: 20px 25px;
+	position: relative;
+}
+h2{
+	color: rgb(55, 35, 0);
+	margin-bottom: 5px;
+	font-weight: 100;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ul li{
+	margin-bottom: 4px;
+}
+.left-head{
+	font-size: 15px;
+	font-weight: 900;
+	margin-bottom: 5px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul{
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+.left-cgpa{
+	font-size: 11px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.skill-icon{
+	font-size: 17px ;
+}
+td li{
+	padding-left: 25px;
+	font-weight: 600;
+}
+.skill-icon td li{
+	padding-left: 15px;
+	padding-top: 5px;
+}
+.btn1{
+	margin-top: 4px;
+	margin-left: 25px;
+	width: 47%;
+	height: 4vh;
+	border: 2px solid #bdc3c7;
+	border-radius: 7px;
+	color: rgb(55, 35, 0);
+	cursor: pointer;
+}
