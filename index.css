@@ -1,11 +1,11 @@
-body{
+.container{
 	border: 20px solid #bdc3c7;
 	max-width: 700px;
 	width: 700;
     height: 850px;
 	margin: 20px auto;
 	text-align: justify;
-	background-color:blue;
+	background-color: rgb(255, 255, 255);
 }
 .navbar{
     background-color: #bdc3c7;
@@ -17,6 +17,16 @@ body{
     width: 120px;
 	border: 1px solid #bdc3c7;
 	border-radius: 10%;
+	position: relative;
+}
+tr img :hover .info{
+	background-color: black;
+	font-size: 40px;
+}
+.picdp{
+	position: absolute;
+	width: 375px;
+	opacity: 0;
 }
 .info{
 	padding-left: 18px;
